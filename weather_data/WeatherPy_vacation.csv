@@ -1,0 +1,28 @@
+City_ID,City,Country,Max Temp,Current Desc,Lat,Lng,Rain Inches (last 3 hrs),Snow Inches (last 3 hrs),Hotel Name
+21,Dikson,RU,30.27,snow,73.51,80.55,0.0,1.75,
+33,Severo-Kurilsk,RU,23.5,snow,50.68,156.12,0.0,3.06,Kak Doma
+75,Karpogory,RU,33.67,light snow,64.0,44.45,0.0,0.19,Hotel Pinezhskaya Sloboda
+97,Khatanga,RU,12.67,light snow,71.97,102.5,0.0,0.25,"Gostinitsa ""Zapolyar'ye"""
+111,Omagari,JP,34.0,light snow,39.45,140.48,0.0,0.13,Airinkan
+132,Aldan,RU,5.83,light snow,58.6,125.39,0.0,0.44,Aldan Guest House
+172,Podlesnoye,RU,31.95,light snow,51.82,47.01,0.0,0.5,Hotel Aivengo
+224,Paamiut,GL,19.11,light snow,61.99,-49.67,0.0,0.25,Yeet Hotel
+230,Usinsk,RU,28.51,light snow,65.99,57.53,0.0,0.13,Dobro Pozhalovaty
+257,Nanortalik,GL,26.92,light snow,60.14,-45.24,0.0,0.81,"NTS Rooms, Nanortalik"
+300,Syasstroy,RU,36.41,light snow,60.14,32.57,0.0,0.12,База Отдыха Горизонт
+326,Novoagansk,RU,21.6,light snow,61.94,76.66,0.0,0.13,Dom v Raduzhnom
+340,Altayskoye,RU,16.92,light snow,51.95,85.33,0.0,0.25,Neo Hotel
+342,Narsaq,GL,24.8,snow,60.92,-46.05,0.0,1.81,Hotel Narsaq
+344,Savinka,RU,34.23,light snow,50.08,47.1,0.0,0.25,Otel'-El'
+345,Mugur-Aksy,RU,8.38,light snow,50.35,90.5,0.0,0.63,Suldet Camp
+356,Kholm,RU,35.55,light snow,59.27,32.85,0.0,0.25,Отель XL
+379,Sernur,RU,28.17,light snow,56.93,49.15,0.0,0.44,Gostinnitsa Podvor'ye
+390,Klyavlino,RU,23.61,light snow,54.26,52.03,0.0,0.69,Akvamarin
+400,Kamenka,RU,33.01,snow,51.32,42.77,0.0,1.81,Hotel Ubileynaya
+449,Klaksvik,FO,37.4,light snow,62.23,-6.59,0.0,0.69,Hotel Hafnia
+452,Qaqortoq,GL,24.8,light snow,60.72,-46.03,0.0,1.0,Hotel Narsaq
+456,Milkovo,RU,-4.72,light snow,54.72,158.62,0.0,0.19,"Hotel ""Geologist"""
+469,Ushumun,RU,6.55,light snow,52.78,126.53,0.0,0.25,Kafe Khutorok
+474,Georgiyevskoye,RU,30.99,light snow,58.73,45.02,0.0,1.25,Krasnye Kholmy Hotel
+492,Leshukonskoye,RU,33.13,light snow,64.9,45.76,0.0,0.94,Gostinitsa Mup Zhkkh
+514,Nizhniy Kuranakh,RU,5.54,light snow,58.84,125.49,0.0,0.19,Aldan Guest House
